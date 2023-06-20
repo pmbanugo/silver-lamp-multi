@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const getServerSideProps = async () => {
   return {
-    props: { variables: { ENV: process.env.ENV, NAME: process.env.NAME } },
+    props: { variables: { ENV: process.env.ENV, NAME: process.env.NAME, NODE_ENV: process.env.NODE_ENV_2 } },
   };
 };
 
