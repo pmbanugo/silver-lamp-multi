@@ -24,7 +24,7 @@ export default function Home({ variables }) {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp; together with Andres
+            Get started by editing with preview demo &nbsp;
             <code className={styles.code}>src/pages/index.js</code>
           </p>
           <div>
