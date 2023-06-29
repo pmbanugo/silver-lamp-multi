@@ -1,3 +1,3 @@
 # silver-lamp-multi
 
-- NextJS app - my-next-app
+- NextJS app - my-next-app.
